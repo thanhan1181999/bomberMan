@@ -1,0 +1,35 @@
+1
+9
+9
+#########
+#p*O    #
+#   x B #
+#   *   #
+# # # # #
+#   b   #
+# # O # #
+#   *   #
+#########
+M� t? c?u tr�c t?p c?u h�nh m�n choi:
+1/ D�ng d?u ti�n bao g?m 3 s? nguy�n L, R, C:
+L - s? th? t? m�n choi
+R - s? h�ng c?a b?n d?
+C - s? c?t c?a b?n d?
+
+2/ R d�ng ti?p theo, m?i d�ng c� C k� t?. M?i k� t? d?i di?n cho m?t d?i tu?ng tr�n b?n d?:
+Tiles:
+# - Wall
+* - Brick
+x - Portal
+
+Character:
+p - Bomber
+B - Balloon
+O - Oneal
+
+Items:
+b - Bomb Item
+f - Flame Item
+s - Speed Item
+
+K� t? kh�c c�c k� t? tr�n - Grass
