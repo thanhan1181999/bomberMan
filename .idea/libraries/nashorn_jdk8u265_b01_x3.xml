@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nashorn-jdk8u265-b01-x3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nashorn-jdk8u265-b01-x3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
